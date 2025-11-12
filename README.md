@@ -48,7 +48,7 @@ Combines **Natural Language Processing**, **Machine Learning**, and **Data Visua
 </p>
 
 <p align="center">
-  <img src="assets/660462f4-cb75-45b7-9a19-250b9295615d.png" width="95%">
+  <img src="distribution of sentiment lables.png" width="95%">
   <br>
   <em>Top 10 Hotels by Sentiment Distribution (Sampled Data)</em>
 </p>
