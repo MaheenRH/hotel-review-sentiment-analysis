@@ -42,7 +42,7 @@ Combines **Natural Language Processing**, **Machine Learning**, and **Data Visua
 ## 📊 Visual Insights  
 
 <p align="center">
-  <img src="assets/d436ab28-d85c-47bb-9caf-420e7144182e.png" width="75%">
+  <img src="sentiment labels.png" width="75%">
   <br>
   <em>Distribution of Sentiment Labels – Positive, Neutral, Negative</em>
 </p>
